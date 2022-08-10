@@ -11,3 +11,6 @@ along with Linux command-line tools and GUI apps, directly on Windows, alongside
 4) Follow the link to setup a hadoop cluster in Docker -
 
 https://shortcut.com/developer-how-to/how-to-set-up-a-hadoop-cluster-in-docker?fbclid=IwAR1cm7PGri-8VuEAV-jnICy_Z0s23QL2koY7LxgaXdsGrG-oKr5ol-yvZSo
+
+Problems faced : 1. WSL set to version 1,should've been 2.
+                 2. INTEL VIRTUALIZATION TECHNOLOGY Disabled in BIOS, must be enabled.
